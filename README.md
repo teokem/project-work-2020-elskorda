@@ -1,9 +1,9 @@
-# Jupiter Notebook for the Compute Cource \ "Reproducible and Interactive Data Science"
+# Jupiter Notebook for the Compute Cource   \   "Reproducible and Interactive Data Science"
 
 Eleni Skorda
 April , 2020
 
-This git repository contains : 
+## This git repository contains : 
 * The notebook file 
 * The enviroment for this notebook
 
