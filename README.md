@@ -12,7 +12,8 @@ April , 2020
 ```
 git clone git@github.com:teokem/project-work-2020-elskorda.git
 ```
-* To run this notebook you will need to have python3 and anaconda.You can find more information on how to install those [here](https://github.com/mlund/jupyter-course#preparation-before-the-first-session).
+* To run this notebook you will need to have python3 and anaconda.You can find more information on how to install those [here](https://github.com/mlund/jupyter-course#preparation-before-the-first-session). You will also need, in this case, this [enviroment.yml](https://github.com/mlund/jupyter-course/blob/master/environment.yml) instead which contains pip in the dependences. 
+\
 * The next step is to create the enviroment with all necessary dipendencies. In an anaconda terminal run the comand ( inside the folder you store the repository) : 
 
 ```
