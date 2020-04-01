@@ -1,4 +1,4 @@
-# Jupiter Notebook for the Compute Courrce "Reproducible and Interactive Data Science"
+# Jupiter Notebook for the Compute Cource \ "Reproducible and Interactive Data Science"
 
 Eleni Skorda
 April , 2020
