@@ -1,0 +1,15 @@
+name: MCintro                                                                                                           channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - bokeh
+  - ipywidgets
+  - notebook
+  - numpy
+  - openpyxl
+  - pandas
+  - scipy                                                                                                                 - seaborn
+  - xlrd
+  - simplegeneric
+  - geopandas
