@@ -6,7 +6,6 @@ April , 2020
 [DOI:10.5281/zenodo.3749240](https://doi.org/10.5281/zenodo.3749240)
 
 
-
 ## Important note
 Since this is a notebook designed for demonstration I will not save images or the generated data by default. I left the code the figures according to the [project requirements](https://github.com/mlund/jupyter-course#notebook-requirements) but it is user activated in the beginning of the note book. If you chose to activate this know that **all** and generated data are going to be stored in your laptop in the same folder where you placed the notebook.
 
@@ -33,7 +32,8 @@ The intended learning outcomes of this introduction are:
 git clone git@github.com:teokem/project-work-2020-elskorda.git
 ```
 * **SKIP THIS step if you already have anaconda and python 3** 
-To run this notebook you will need to have python3 and anaconda.You can find more information on how to install those [here](https://github.com/mlund/jupyter-course#preparation-before-the-first-session). You will also need, in this case (i.e to  be able to install anaconda and python NOT TO RUN this particular notebook), this [enviroment.yml](https://github.com/mlund/jupyter-course/blob/master/environment.yml) **INSTEAD** which contains pip in the dependencies.  
+To run this notebook you will need to have python3 and anaconda.You can find more information on how to install those [here](https://github.com/mlund/jupyter-course#preparation-before-the-first-session). You will also need, in this case (i.e to  be able to install,
+ NOT TO RUN this particular notebook), this [enviroment.yml](https://github.com/mlund/jupyter-course/blob/master/environment.yml) **INSTEAD** which contains pip and other dependencies.  
 * The next step is to create the environment with all necessary dependencies. In an anaconda terminal run the command ( inside the folder you store the repository) (**use the environment.yml included in this repository**) : 
 
 ```
